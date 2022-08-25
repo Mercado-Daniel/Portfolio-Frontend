@@ -29,6 +29,12 @@
     height: 1rem;
     bottom: 1rem;
 }
+.title-bar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
 
 ul{
     list-style: none;
