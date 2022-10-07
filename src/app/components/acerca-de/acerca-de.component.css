@@ -1,0 +1,20 @@
+.card{
+    border-radius: 32px;
+}
+
+.card-text{
+    margin: auto;
+}
+
+.boton-i{
+    float: right;
+    position: relative;
+    border-radius: 100%;
+    border-style: none;
+    margin: 0px;
+    height: 1rem;
+    bottom: 1rem;
+}
+.bi-pencil-fill{
+    vertical-align: -1em;
+}

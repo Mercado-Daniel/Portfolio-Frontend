@@ -1,0 +1,17 @@
+.card{
+    border-radius: 32px;
+}
+
+.boton-i{
+    float: right;
+    position: relative;
+    border-radius: 100%;
+    border-style: none;
+    margin: 0px;
+    height: 1rem;
+    bottom: 1rem;
+}
+
+.bi-plus-circle-fill{
+    vertical-align: -0.75em;
+}
